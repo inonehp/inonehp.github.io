@@ -1,19 +1,13 @@
-<!-- Main README.md v.1.0.0 -->
+<!-- Main README.md v.1.1.0 -->
   
-##  ∷ Redirect page.
+## Redirect page.
   
 ---
   
-## 🖼️ Screenshot:  
+## Screenshot:  
 
 ![screenshot](screenshot.png)
-  
----
-  
-## 🏷️ Tags:   
 
-[#Website](https://github.com/topics/website),
-[#Redirect](https://github.com/topics/redirect),
 
 
 
