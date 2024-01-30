@@ -6,7 +6,7 @@
   
 ## 🖼️ Screenshot:  
 
-![screenshot light](/img/screenshot.png)
+![screenshot](screenshot.png)
   
 ---
   
